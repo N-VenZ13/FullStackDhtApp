@@ -1,6 +1,6 @@
 ﻿# 🌡️ Smart Environment Monitor (ESP32 + Laravel + Android Compose) 🌿
 
-![Project Showcase Image/GIF](./Dht_monitoring_Arduino/img.png)
+![Project Showcase Image/GIF](./images/image.png)
 <!-- Ganti dengan path ke gambar/GIF utama Anda -->
 
 A comprehensive Internet of Things (IoT) solution for real-time environment monitoring (temperature & humidity) and automated device control. This project integrates an ESP32 microcontroller with various sensors and relays, a Laravel backend for data management, and a modern Android application built with Jetpack Compose for remote visualization and interaction.
